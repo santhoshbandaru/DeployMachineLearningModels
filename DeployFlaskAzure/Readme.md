@@ -29,7 +29,6 @@ ENV NAME OpentoAll
 CMD ["python","app.py"]
 
 ```
-
 <h3> 3. Build Your Docker Image.</h3>
 
 <p>docker buid -t  imagename:tag
@@ -72,7 +71,7 @@ docker push tharun435/myrepo:1.0
 <h3> Succesfully the Web app is created and a link will be generated like this. <a href='https://deploymodel.azurewebsites.net/'> https://deploymodel.azurewebsites.net/
 </a> </h3>
 
-<hr />
+<hr/>
 
 <h3>References </h3>
 
